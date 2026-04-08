@@ -92,7 +92,7 @@ int main(void)
   MX_I2C1_Init();
   /* USER CODE BEGIN 2 */
   lcd_init();
-  lcd_puts(LCD_LINE1, "VAISHNAVI PRABHAKAR KAKDE");
+  lcd_puts(LCD_LINE1, "Hrutik Somnath Kanade");
   /* USER CODE END 2 */
 
   /* Infinite loop */
